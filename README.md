@@ -14,9 +14,8 @@ If you have Git installed on your machine, you can clone the repository using th
 2. Navigate to the directory where you want to clone the repository.
 3. Execute the following command to clone the repository:
 
-git clone https://github.com/varunk07/Pandas-learn.git
+`git clone https://github.com/varunk07/Pandas-learn.git`
 
-Replace `your-username` with your GitHub username and `your-repo` with the name of your repository.
 
 4. After executing the command, the repository will be cloned to your local machine. You can find the files in the cloned directory.
 
